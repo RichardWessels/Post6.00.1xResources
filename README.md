@@ -1,6 +1,6 @@
 # Resources for Post-6.00.1x 
 
-Fundamentals:
+## Fundamentals:
 * The Elements of Computing Systems (also known as ‘Nand to Tetris’)
   * This book gets you to build a computer from the transistor up. You end up creating your own compiler, dealing with Assembly etc. It can really help improve your knowledge of the fundamentals of computers.
   * www.amazon.com/dp/B004HHORGA/ref=cm_sw_r_tw_dp_U_x_zgDsDb0CE14W2
@@ -9,13 +9,15 @@ Fundamentals:
   * www.amazon.com/dp/B00JDMPOK2/ref=cm_sw_r_tw_dp_U_x_8eDsDb67NXJW6
 * Compilers: Theory and Practice
   * www.udacity.com/course/compilers-theory-and-practice--ud168#
-Web Development:
+
+## Web Development:
 * CS50: Web Development with Python and JavaScript
   * This course begins with HTML and CSS and gradually moves on to Flask for back-end programming, deals with Ajax and then moves onto more sophisticated frameworks such as Django. It also touches on security and scalability.
   * www.edx.org/course/cs50s-web-programming-with-python-and-javascript
 * Flask Web Development
   * www.amazon.com/dp/1491991739/ref=cm_sw_r_tw_dp_U_x_fcDmDb62NN6KS
-Data Science:
+
+## Data Science:
 * Web Scraping with Python: Collecting More Data from the Modern Web
   * You can use web scraping to gather a bunch of data, this book teaches you HTML parsing, and more.
   * www.amazon.com/dp/1491985577/ref=cm_sw_em_r_mt_dp_U_G6zmDb9T7DVET
@@ -24,7 +26,8 @@ Data Science:
   * www.amazon.com/dp/1491962291/ref=cm_sw_r_tw_dp_U_x_KaAmDbQPVHRBT 
 * Data Analysis with Python
   * saskeli.github.io/data-analysis-with-python-summer-2019/index.html
-Math:
+
+## Math:
 * Mathematics for Computer Science (MIT Opencourseware)
   * Pretty self-explanatory. It’s some math that is important to major parts of computer science.
   * ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
@@ -34,7 +37,8 @@ Math:
 * Introduction to Algorithms
   * ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm
   * The course follows this book: mitpress.mit.edu/books/introduction-algorithms-third-edition
-Other:
+
+## Other:
 * Weekly Emails about Python (involves interesting projects, articles and news)
   * www.pythonweekly.com
 * C Programming – Absolute Beginner’s Guide
