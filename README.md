@@ -1,10 +1,10 @@
 # Resources for Post-6.00.1x 
 
 Fundamentals:
-    • The Elements of Computing Systems (also known as ‘Nand to Tetris’)
-        ◦ This book gets you to build a computer from the transistor up. You end up creating your own compiler, dealing with Assembly etc. It can really help improve your knowledge of the fundamentals of computers.
-        ◦ www.amazon.com/dp/B004HHORGA/ref=cm_sw_r_tw_dp_U_x_zgDsDb0CE14W2
-    • CODE by Charles Petzold
+* The Elements of Computing Systems (also known as ‘Nand to Tetris’)
+  * This book gets you to build a computer from the transistor up. You end up creating your own compiler, dealing with Assembly etc. It can really help improve your knowledge of the fundamentals of computers.
+  * www.amazon.com/dp/B004HHORGA/ref=cm_sw_r_tw_dp_U_x_zgDsDb0CE14W2
+* CODE by Charles Petzold
         ◦ This book is all about code. Not just computer code. It begins with Morse and Braille. Then it introduces binary systems, and ends up teaching how a computer is made from the base up. It deals with very fundamental concepts such as flip-flops (not the beach wear) and goes up to teaching compilers and introducing graphical user interfaces.
         ◦ www.amazon.com/dp/B00JDMPOK2/ref=cm_sw_r_tw_dp_U_x_8eDsDb67NXJW6
     • Compilers: Theory and Practice
