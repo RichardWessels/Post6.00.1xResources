@@ -16,6 +16,8 @@
   * www.edx.org/course/cs50s-web-programming-with-python-and-javascript
 * Flask Web Development
   * www.amazon.com/dp/1491991739/ref=cm_sw_r_tw_dp_U_x_fcDmDb62NN6KS
+* Flask Mega-Tutorial 
+  * blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 ## Data Science:
 * Web Scraping with Python: Collecting More Data from the Modern Web
