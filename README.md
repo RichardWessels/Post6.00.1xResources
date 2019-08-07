@@ -17,7 +17,7 @@
 * Flask Web Development
   * www.amazon.com/dp/1491991739/ref=cm_sw_r_tw_dp_U_x_fcDmDb62NN6KS
 * Flask Mega-Tutorial 
-  * blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+  * https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 ## Data Science:
 * Web Scraping with Python: Collecting More Data from the Modern Web
@@ -27,18 +27,18 @@
   * This book teaches practical machine learning. It doesn’t spend too much time with the theory as other machine learning books. Here’s a video reviewing the book: youtu.be/1RiFIYwuwHM 
   * www.amazon.com/dp/1491962291/ref=cm_sw_r_tw_dp_U_x_KaAmDbQPVHRBT 
 * Data Analysis with Python
-  * saskeli.github.io/data-analysis-with-python-summer-2019/index.html
+  * https://saskeli.github.io/data-analysis-with-python-summer-2019/index.html
 
 ## Math:
 * Mathematics for Computer Science (MIT Opencourseware)
   * Pretty self-explanatory. It’s some math that is important to major parts of computer science.
-  * ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
+  * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
 * Art of Problem Solving series
   * Not computer science specific, but I enjoy the teaching method that these books follow. The books range from basic arithmetic to calculus. 
-  * artofproblemsolving.com/store/list/aops-curriculum
+  * https://artofproblemsolving.com/store/list/aops-curriculum
 * Introduction to Algorithms
-  * ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm
-  * The course follows this book: mitpress.mit.edu/books/introduction-algorithms-third-edition
+  * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm
+  * The course follows this book: https://mitpress.mit.edu/books/introduction-algorithms-third-edition
 
 ## Other:
 * Weekly Emails about Python (involves interesting projects, articles and news)
@@ -59,6 +59,6 @@
 * How Linux Works
   * www.amazon.com/dp/1593275676/ref=cm_sw_r_tw_dp_U_x_5nApDbRG98X35
 * University of Helsinki Cybersecurity course
-  * cybersecuritybase.mooc.fi/
+  * https://cybersecuritybase.mooc.fi/
 
 
